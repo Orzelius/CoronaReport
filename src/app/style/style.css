@@ -1,0 +1,15 @@
+/* purgecss start ignore */
+@tailwind  base;
+@tailwind  components;
+
+table {
+  width: 100%;
+}
+
+td {
+  width: 3em;
+}
+
+/* purgecss end ignore */
+
+@tailwind  utilities;
